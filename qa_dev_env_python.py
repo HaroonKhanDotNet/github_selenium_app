@@ -16,8 +16,8 @@ THE QA-DEV Enivironment: All the tools (software and documents) required to run 
 
 
 
-this has been a snowy week hel -> after git in action
+#this has been a snowy week hel -> after git in action
 
-new day = new life = new session
+#new day = new life = new session
 
-a new line right at the git tracking starting point
+#a new line right at the git tracking starting point
