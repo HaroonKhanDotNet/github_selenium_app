@@ -11,7 +11,7 @@ THE QA-DEV Enivironment: All the tools (software and documents) required to run 
     e. AutoFormatter (Automates the formatting) e.g. autopep8 by Microsoft
     f. POM - Project Object Management (way of organizing files and folders in a project)
     g. Live Share (code collaboration) for peer review
-    h. *Source Control (keeping the history of code changes) we will talk 2022 dec 22 thu
+    h. Source Control (keeping the history of code changes) using Git and Github
 '''
 
 
