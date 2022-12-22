@@ -1,0 +1,29 @@
+
+Defect Report - Microsoft Pylint
+
+- SUT: Microsoft Visual Studio Code - Version: 1.74.2
+- CUT: Microsoft Pylint Extension - Version: 2022.6.0
+- DateTime (ISO 8601): 2022-12-31T11:50:00AM-8
+- Author/Performer: Haroon Khan
+
+- Title: Two Blank Lines - PEP8
+- Description: Pylint does not give warning (yellow squiggly) when we have
+               a global statement followed by function definition                 
+- Environment/Platform: 
+Edition	Windows 11 Home
+Version	22H2
+Installed 2022-10-07
+OS build	22621.963
+Experience	Windows Feature Experience Pack 1000.22638.1000.0
+
+- Severity Critical/Moderate/Mild: Critical
+- Priority High/Medium/Low: High
+- Steps to Reproduce: 
+1. Define a Python function or class
+2a. Write a global statement following function or class definition without a blank line
+2b. Snapshot is attached
+
+- Expected Results: To have yellow squiggly shouting about two blank lines between a function
+                    or class definition and a global statement immediately following the function/class.
+- Actual Results: No yellow squiggly warning at all.
+- Attachments: Sanpshot of code snippet
