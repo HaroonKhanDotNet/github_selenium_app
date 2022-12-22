@@ -14,8 +14,10 @@ THE QA-DEV Enivironment: All the tools (software and documents) required to run 
     h. *Source Control (keeping the history of code changes) we will talk 2022 dec 22 thu
 '''
 
-hello and good morning
 
-this has been a snowy week hel
+
+this has been a snowy week hel -> after git in action
 
 new day = new life = new session
+
+a new line right at the git tracking starting point
